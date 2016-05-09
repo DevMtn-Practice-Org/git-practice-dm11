@@ -1,7 +1,9 @@
-var dm11 = "Started today";
-var foo = "fighters";
+var dm11 = "Started today!";
+var foo = "fighters!";
+var bar = "car";
 
 var journal = [];
 
 journal.push(dm11); 
 journal.push(foo);
+journal.push(bar);
